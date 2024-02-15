@@ -1,28 +1,47 @@
 .project {
   padding: 2em;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .project:hover {
   transform: translateY(-7px);
 }
 
+.project__image-container {
+  width: 100%;
+  margin-bottom: 1em; /* Adjust spacing between image and details */
+}
+
+.project__image {
+  max-width: 100%;
+  height: auto;
+}
+
+.project__details {
+  margin-bottom: 1em; /* Adjust spacing between details and links */
+}
+
 .project__description {
-  margin-top: 1em;
+  margin-top: 0; /* Reset default margin */
 }
 
 .project__stack {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 1.2em 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex; /* Display stack items horizontally */
+  text-align: left;
+  align-items: center;
 }
 
 .project__stack-item {
-  margin: 0.5em;
+  margin: 0 0.5em; /* Adjust spacing between stack items */
   font-weight: 500;
   font-size: 0.8rem;
   color: var(--clr-fg-alt);
@@ -30,4 +49,13 @@
 
 .project .link--icon {
   margin-left: 0.5em;
+}
+
+.link-container {
+  display: inline-block;
+}
+
+.horizontal-line {
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
 }
