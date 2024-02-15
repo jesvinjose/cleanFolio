@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/jesvinjose/cleanFolio/static/css/main.0969f654.css",
+    "main.js": "/jesvinjose/cleanFolio/static/js/main.2f335f90.js",
+    "static/media/project-9-bg.png": "/jesvinjose/cleanFolio/static/media/project-9-bg.cc320b2992f3ce368035.png",
+    "static/media/project-3-bg.png": "/jesvinjose/cleanFolio/static/media/project-3-bg.849c48e1190ca430f97a.png",
+    "static/media/project-1-bg.png": "/jesvinjose/cleanFolio/static/media/project-1-bg.f9c47a5e936e615d2737.png",
+    "static/media/project-7-bg.png": "/jesvinjose/cleanFolio/static/media/project-7-bg.150b6b0f210e10564575.png",
+    "static/media/redux-logo.png": "/jesvinjose/cleanFolio/static/media/redux-logo.13709933f3b443c1da91.png",
+    "static/media/nodejs-1-logo.png": "/jesvinjose/cleanFolio/static/media/nodejs-1-logo.d980d9636ace07ad3dde.png",
+    "static/media/logo-javascript.png": "/jesvinjose/cleanFolio/static/media/logo-javascript.dd49336437d9194e4d2d.png",
+    "static/media/css-logo.jpg": "/jesvinjose/cleanFolio/static/media/css-logo.c606ab148a58f4cfd6a5.jpg",
+    "static/media/bootstrap-logo.png": "/jesvinjose/cleanFolio/static/media/bootstrap-logo.32c248432e2b86298964.png",
+    "static/media/project-4-bg.png": "/jesvinjose/cleanFolio/static/media/project-4-bg.0accb64361dfdfe87523.png",
+    "static/media/programmerImage.png": "/jesvinjose/cleanFolio/static/media/programmerImage.d764efccddd5f81247f9.png",
+    "static/media/project-2-bg.png": "/jesvinjose/cleanFolio/static/media/project-2-bg.3af81f8ebf4c81f1612c.png",
+    "static/media/html-5-logo.jpg": "/jesvinjose/cleanFolio/static/media/html-5-logo.fe4fe9e85705ecf5b8cd.jpg",
+    "static/media/project-6-bg.png": "/jesvinjose/cleanFolio/static/media/project-6-bg.2b6d062c77b09d66818a.png",
+    "static/media/project-8-bg.png": "/jesvinjose/cleanFolio/static/media/project-8-bg.bf7bccd4b4811d390434.png",
+    "static/media/git-logo.jpg": "/jesvinjose/cleanFolio/static/media/git-logo.312d625f36d6ca696afe.jpg",
+    "static/media/project-5-bg.png": "/jesvinjose/cleanFolio/static/media/project-5-bg.9134629d56cdc8bdc5f3.png",
+    "static/media/react-js-icon.png": "/jesvinjose/cleanFolio/static/media/react-js-icon.396536ced87da4ba25b4.png",
+    "index.html": "/jesvinjose/cleanFolio/index.html",
+    "main.0969f654.css.map": "/jesvinjose/cleanFolio/static/css/main.0969f654.css.map",
+    "main.2f335f90.js.map": "/jesvinjose/cleanFolio/static/js/main.2f335f90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0969f654.css",
+    "static/js/main.2f335f90.js"
+  ]
+}
